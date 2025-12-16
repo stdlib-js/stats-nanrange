@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dnanrange": "github:stdlib-js/stats-base-ndarray-dnanrange#main",
     "@stdlib/stats-base-ndarray-nanrange": "github:stdlib-js/stats-base-ndarray-nanrange#main",
     "@stdlib/stats-base-ndarray-snanrange": "github:stdlib-js/stats-base-ndarray-snanrange#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-filled-by": "^0.2.1",
